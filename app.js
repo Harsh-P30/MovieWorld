@@ -44,3 +44,11 @@ document.querySelector("#search").addEventListener( // search box
 )
 //init call 
 getMovies(APIURL);
+
+const name = document.createElement("h3");
+name.innerText="❤️ from Harsh";
+document.querySelector(".main").after(name);
+name.style.textAlign="center";
+name.style.backgroundColor="black";
+name.style.color="white";
+
