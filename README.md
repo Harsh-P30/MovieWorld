@@ -41,6 +41,7 @@ The movie data is updated in real-time as the user types.
 How to Run:
 
 Clone or download the project files.
+git clone->  <h1>https://github.com/Harsh-P30/MovieWorld.git</h1>
 
 Open the index.html file in your browser.
 
@@ -60,3 +61,6 @@ Search Endpoint:
 https://api.themoviedb.org/3/search/movie?&api_key=YOUR_API_KEY&query=search_term
 
 ![alt text](image.png)
+
+
+<h1>❤️ from Harsh</h1>
